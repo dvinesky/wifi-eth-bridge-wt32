@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+
+# PlatformIO specific files (if any were created)
+.pio/
+.vscode/
+
+# SDK config backup
+sdkconfig.old
+sdkconfig.bak
